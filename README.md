@@ -11,4 +11,5 @@ This deals with the interaction of soil and rock with seismic forces. It involve
 It involves the study of the stability of slopes and landforms. This field of study is concerned with understanding and predicting the stability of natural and man-made slopes, such as hillsides, cliffs, embankments, and other terrain features.
 ## Choice of Licensing
 **MIT License -** It is a permissive open-source license which allows easy usage, modification and distribution of code. This in turn promotes collaboration. It is easy to understand and implement.
-
+## Cloning
+`git clone <https://github.com/UW-ESS-DS/MLGeo23_AHarne>`
